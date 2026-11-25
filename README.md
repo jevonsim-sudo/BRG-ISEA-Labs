@@ -75,7 +75,49 @@ The practical activity covered:
 
 ## My Learning Blog
 
-Personal reflections on the practical activities, challenges encountered, solutions implemented and skills developed will be documented here.
+
+### 1. Learning Ubuntu and Linux Commands
+
+Before starting this module, I had never used Ubuntu or Linux. I was unfamiliar with the command-line interface because I was more accustomed to using Windows.
+
+Throughout the practical activities, I learned how to navigate directories, manage files, install software and configure file permissions using Linux commands. I also learned how to interpret terminal outputs and troubleshoot errors.
+
+These skills provided me with a foundation in Linux administration that will be useful in future IT roles.
+
+### 2. Cloud Computing and AWS EC2
+
+During this module, I gained practical experience using Amazon Web Services (AWS) to host an Ubuntu server.
+
+I learned how to access a remote server using SSH, configure web services and understand the importance of network ports and security settings.
+
+This activity helped me understand how cloud computing allows businesses to host and manage services without maintaining their own physical servers.
+
+### 3. Server Configuration and Security
+
+I learned that installing a server service is only one part of server administration. Proper configuration, access control and security are also important.
+
+Through the practical activities, I worked with Apache, Nginx, DNS and HTTPS certificates. I also used system monitoring commands and examined server logs to understand system behaviour and identify potential issues.
+
+These activities demonstrated the importance of maintaining secure and reliable server environments.
+
+### 4. Bash Scripting and Task Automation
+
+Bash scripting introduced me to automating repetitive administrative tasks instead of performing them manually.
+
+I created a backup script that compressed files into ZIP archives and used cron to schedule automatic backups. I also verified the generated backup files and transferred a backup to my local computer using SCP.
+
+This activity helped me understand how automation can reduce administrative workload, minimise human errors and improve data protection.
+
+### 5. MariaDB Database Management
+
+For my additional server service, I selected MariaDB to explore relational database management.
+
+I installed and configured MariaDB, created databases and tables, inserted employee records and performed SQL queries. I also configured database user permissions and tested access restrictions.
+
+One issue I encountered was attempting to create a table that already existed. I resolved this by checking the existing table structure instead of recreating it.
+
+Finally, I successfully backed up and restored the database. This demonstrated the importance of database security, access control and disaster recovery.
+
 
 ## AI Tools Used
 
